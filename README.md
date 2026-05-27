@@ -57,3 +57,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piush365&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piush365&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
+</div>
