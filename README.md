@@ -48,12 +48,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=piush365&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piush365&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </a>
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
