@@ -22,22 +22,10 @@ jobs:
           MAX_REPOS: "10"
           SETTING_JSON: profile/3d-contrib-settings.json
 
-      - name: Find and move 3D graph
+      - name: Move graph to profile directory
         run: |
-          echo "=== Root directory ==="
-          ls -la
-          echo ""
-          echo "=== All SVG files in workspace ==="
-          find $GITHUB_WORKSPACE -name "*.svg" -not -path "*/.git/*" 2>/dev/null
-          echo ""
           mkdir -p profile
-          SVG=$(find $GITHUB_WORKSPACE -maxdepth 1 -name "*.svg" 2>/dev/null | head -1)
-          if [ -z "$SVG" ]; then
-            echo "ERROR: No SVG found at workspace root"
-            exit 1
-          fi
-          echo "Moving $SVG → profile/profile-3d-contrib.svg"
-          mv "$SVG" profile/profile-3d-contrib.svg
+          cp profile-3d-contrib/profile-customize.svg profile/profile-3d-contrib.svg
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
