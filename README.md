@@ -150,7 +150,6 @@ piush@fedora:~$ █
 | [![Diploma-Dost](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true)](https://github.com/piush365/Diploma-Dost) | [![marathi-political-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true)](https://github.com/piush365/marathi-political-sentiment) |
 | [![flashstrike](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true)](https://github.com/piush365/flashstrike) | [![DevAgent-Flow](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true)](https://github.com/piush365/DevAgent-Flow) |
 
-[![AnimateDiff](https://github-readme-stats.vercel.app/api/pin/?username=guoyww&repo=AnimateDiff&theme=tokyonight&hide_border=true)](https://github.com/guoyww/AnimateDiff)
 
 </div>
 
