@@ -1,12 +1,32 @@
-<div align="center">
-  <img src="./profile/piush_terminal_boot_v3.svg" alt="Piush Terminal Boot" width="100%" />
-</div>
+<table width="100%">
+<tr>
+<td width="42%" align="center" valign="middle">
+<img src="./profile/Programming_Computer.svg" width="100%" alt="coding" />
+</td>
+<td valign="middle">
+<pre>
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║  ██████╗ ██╗██╗   ██╗███████╗██╗  ██╗              ║
+║  ██╔══██╗██║██║   ██║██╔════╝██║  ██║              ║
+║  ██████╔╝██║██║   ██║███████╗███████║  BUILD.       ║
+║  ██╔═══╝ ██║██║   ██║╚════██║██╔══██║  SHIP.        ║
+║  ██║     ██║╚██████╔╝███████║██║  ██║  REPEAT.      ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝              ║
+║                                                      ║
+║  B.Tech CSE · WCE Sangli · 9.0 GPA                  ║
+║  AI Intern · OSS Contributor · Ships Real Things     ║
+╚══════════════════════════════════════════════════════╝
+</pre>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piush-gogi-90a44737b/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PiushGogi007)
-[![LeetCode](https://img.shields.io/badge/LeetCode_151_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piushgogi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piushgogi/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/piushgogi)
 [![Email](https://img.shields.io/badge/piushgogi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piushgogi@gmail.com)
 
@@ -129,6 +149,8 @@ piush@fedora:~$ █
 |:---:|:---:|
 | [![Diploma-Dost](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true)](https://github.com/piush365/Diploma-Dost) | [![marathi-political-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true)](https://github.com/piush365/marathi-political-sentiment) |
 | [![flashstrike](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true)](https://github.com/piush365/flashstrike) | [![DevAgent-Flow](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true)](https://github.com/piush365/DevAgent-Flow) |
+
+[![AnimateDiff](https://github-readme-stats.vercel.app/api/pin/?username=guoyww&repo=AnimateDiff&theme=tokyonight&hide_border=true)](https://github.com/guoyww/AnimateDiff)
 
 </div>
 
