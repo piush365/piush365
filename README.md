@@ -4,20 +4,7 @@
 <img src="./profile/Programming_Computer.svg" width="100%" alt="coding" />
 </td>
 <td valign="middle">
-<pre>
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  ██████╗ ██╗██╗   ██╗███████╗██╗  ██╗              ║
-║  ██╔══██╗██║██║   ██║██╔════╝██║  ██║              ║
-║  ██████╔╝██║██║   ██║███████╗███████║  BUILD.       ║
-║  ██╔═══╝ ██║██║   ██║╚════██║██╔══██║  SHIP.        ║
-║  ██║     ██║╚██████╔╝███████║██║  ██║  REPEAT.      ║
-║  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝              ║
-║                                                      ║
-║  B.Tech CSE · WCE Sangli · 9.0 GPA                  ║
-║  AI Intern · OSS Contributor · Ships Real Things     ║
-╚══════════════════════════════════════════════════════╝
-</pre>
+<img src="./profile/piush_ascii_banner.svg" width="100%" alt="PIUSH" />
 </td>
 </tr>
 </table>
@@ -45,13 +32,11 @@ piush@fedora:~$ ./status --verbose
                 └─ Groq → Gemini → OpenRouter fallback chain · Flask
 
   [LIVE]     Diploma Dost — Open-Source PWA
-             └─ React · Vite · Supabase
-                ├─ 7 contributors · 90+ production deployments
-                └─ built for diploma engineering students across India
+             └─ React · Vite · Supabase · multi-contributor
+                └─ built for diploma engineering students
 
   [WIP]      Marathi Political Sentiment Analysis
-             └─ 2,398 YouTube comments · LLM labeling pipeline
-                └─ targeting arXiv
+             └─ LLM labeling pipeline · targeting arXiv
 
   [LOCKED]   GSoC 2027 — Mesa / PSF  (ML/RL/AI Integration track)
 
@@ -68,26 +53,11 @@ piush@fedora:~$ █
 | | PROJECT | IMPACT | STACK | STATUS |
 |:---:|:---|:---|:---|:---:|
 | 🤖 | **[DevAgent-Flow](https://github.com/piush365/DevAgent-Flow)** | Multi-agent LLM orchestrator — 4 specialized agents, provider fallback chain | `Python` `Flask` `LangGraph` `Groq` `Gemini` `OpenRouter` | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-00C851?style=flat-square&logoColor=white) |
-| 📚 | **[Diploma Dost](https://github.com/piush365/Diploma-Dost)** | Open-source PWA — 7 contributors, 90+ production deployments | `React` `Vite` `Supabase` `PWA` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
+| 📚 | **[Diploma Dost](https://github.com/piush365/Diploma-Dost)** | Open-source PWA for diploma engineering students — multi-contributor, widely deployed | `React` `Vite` `Supabase` `PWA` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
 | ⚡ | **[Flash Sale System](https://github.com/piush365/flashstrike)** | 10,000+ concurrent requests — zero meltdowns | `Java` `Spring Boot` `Kafka` `Redis` `Docker` | ![SHIPPED](https://img.shields.io/badge/SHIPPED-0088FF?style=flat-square&logoColor=white) |
-| 🧠 | **[Marathi Sentiment](https://github.com/piush365/marathi-political-sentiment)** | LLM-labeled 2,398 YouTube comments for political NLP research | `Python` `NLP` `LLM` `Pandas` | ![WIP](https://img.shields.io/badge/arXiv_BOUND-FF6600?style=flat-square&logoColor=white) |
+| 🧠 | **[Marathi Sentiment](https://github.com/piush365/marathi-political-sentiment)** | LLM labeling pipeline for Marathi political NLP research | `Python` `NLP` `LLM` `Pandas` | ![WIP](https://img.shields.io/badge/arXiv_BOUND-FF6600?style=flat-square&logoColor=white) |
 
 ---
-
-## 🔀 OPEN SOURCE FOOTPRINT
-
-```
-╔─────────────────────────────────────────────────────────────────────────╗
-│  MERGED PULL REQUESTS                                                   │
-╠═════════════════════════════════════════════════════════════════════════╣
-│  ✓  mcp-docs-assistant    ··  SSR hydration fix                        │
-│  ✓  python-docspec        ··  .pyi stub support for type checking      │
-╠═════════════════════════════════════════════════════════════════════════╣
-│  MAINTAINING                                                            │
-╠═════════════════════════════════════════════════════════════════════════╣
-│  ⬡  Diploma Dost          ··  core maintainer · 7 contributors         │
-╚─────────────────────────────────────────────────────────────────────────╝
-```
 
 ---
 
@@ -186,6 +156,6 @@ piush@fedora:~$ █
 
 <div align="center">
 <pre>
-  [ ships or it didn't happen · 9.0 GPA · 151 leetcode · fedora btw ]
+  [ ships or it didn't happen · 9.0 GPA · fedora btw ]
 </pre>
 </div>
