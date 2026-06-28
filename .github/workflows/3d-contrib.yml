@@ -18,11 +18,20 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: piush365
-          max_repos: 10
-          type: svg
-          theme: dracula
+          USERNAME: piush365
+          MAX_REPOS: "10"
+          SETTING_JSON: >-
+            {
+              "backgroundColor": "#1e1e2e",
+              "wdBgColor": "#313244",
+              "wdTextColor": "#cdd6f4",
+              "textColor": "#cdd6f4",
+              "contribDefaultColor": "#45475a",
+              "contribMonthColors": ["#cba6f7", "#89b4fa"],
+              "contribYearColors": ["#a6e3a1", "#89dceb"],
+              "barColor": "#cba6f7",
+              "barOverlayColor": "#89b4fa"
+            }
 
       - name: Move graph to profile directory
         run: mkdir -p profile && mv profile-3d-contrib.svg profile/profile-3d-contrib.svg
