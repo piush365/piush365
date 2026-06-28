@@ -22,12 +22,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: piush365
           MAX_REPOS: "10"
-          SETTING_JSON: profile/3d-contrib-settings.json
 
       - name: Move graph to profile directory
         run: |
           mkdir -p profile
-          cp profile-3d-contrib/profile-customize.svg profile/profile-3d-contrib.svg
+          cp profile-3d-contrib/profile-night-view.svg profile/profile-3d-contrib.svg
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
