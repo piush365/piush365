@@ -52,6 +52,7 @@ piush@fedora:~$ █
 
 | | PROJECT | IMPACT | STACK | STATUS |
 |:---:|:---|:---|:---|:---:|
+| 🌦️ | **[GramVarsha AI](https://github.com/piush365/gramvarsha)** · [demo](https://gramvarsha-ai.vercel.app) | Block→panchayat weather downscaling with explainable ML + crop advisories in Marathi/Hindi/English (SIH26074) | `Python` `FastAPI` `XGBoost` `Kriging` `Next.js` `Leaflet` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
 | 🤖 | **[DevAgent-Flow](https://github.com/piush365/DevAgent-Flow)** | Multi-agent LLM orchestrator — 4 specialized agents, provider fallback chain | `Python` `Flask` `LangGraph` `Groq` `Gemini` `OpenRouter` | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-00C851?style=flat-square&logoColor=white) |
 | 📚 | **[Diploma Dost](https://github.com/piush365/Diploma-Dost)** | Open-source PWA for diploma engineering students — multi-contributor, widely deployed | `React` `Vite` `Supabase` `PWA` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
 | ⚡ | **[Flash Sale System](https://github.com/piush365/flashstrike)** | 10,000+ concurrent requests — zero meltdowns | `Java` `Spring Boot` `Kafka` `Redis` `Docker` | ![SHIPPED](https://img.shields.io/badge/SHIPPED-0088FF?style=flat-square&logoColor=white) |
