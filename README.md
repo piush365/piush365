@@ -26,17 +26,20 @@
 ```bash
 piush@fedora:~$ ./status --verbose
 
-  [ACTIVE]   AI Intern @ Capabl
-             └─ DevFlow Agent — multi-agent LLM orchestration system
-                ├─ 4 specialized agents · task routing · context memory
-                └─ Groq → Gemini → OpenRouter fallback chain · Flask
+  [ACTIVE]   GramVarsha AI — SIH26074 · Team Hexadecimal
+             └─ block → panchayat weather downscaling · XGBoost + kriging
+                ├─ explainable forecasts (TreeSHAP) · FastAPI · Next.js
+                └─ crop advisories in Marathi / Hindi / English · live
 
-  [LIVE]     Diploma Dost — Open-Source PWA
-             └─ React · Vite · Supabase · multi-contributor
-                └─ built for diploma engineering students
+  [ACTIVE]   PromptOpt — final-year mini project
+             └─ vague prompt → structured, token-efficient prompt
+                └─ rule-based optimizer · LoRA fallback · eval harness
 
-  [WIP]      Marathi Political Sentiment Analysis
-             └─ LLM labeling pipeline · targeting arXiv
+  [OSS]      42 merged PRs across 31 repos
+             └─ now: numba — spurious warnings from pruned branches (#10368)
+
+  [DONE]     AI Intern @ Capabl
+             └─ DevFlow Agent — 4-agent LLM orchestrator · provider fallback chain
 
   [LOCKED]   GSoC 2027 — Mesa / PSF  (ML/RL/AI Integration track)
 
@@ -54,11 +57,10 @@ piush@fedora:~$ █
 |:---:|:---|:---|:---|:---:|
 | 🌦️ | **[GramVarsha AI](https://github.com/piush365/gramvarsha)** · [demo](https://gramvarsha-ai.vercel.app) | Block→panchayat weather downscaling with explainable ML + crop advisories in Marathi/Hindi/English (SIH26074) | `Python` `FastAPI` `XGBoost` `Kriging` `Next.js` `Leaflet` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
 | 🤖 | **[DevAgent-Flow](https://github.com/piush365/DevAgent-Flow)** | Multi-agent LLM orchestrator — 4 specialized agents, provider fallback chain | `Python` `Flask` `LangGraph` `Groq` `Gemini` `OpenRouter` | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-00C851?style=flat-square&logoColor=white) |
-| 📚 | **[Diploma Dost](https://github.com/piush365/Diploma-Dost)** | Open-source PWA for diploma engineering students — multi-contributor, widely deployed | `React` `Vite` `Supabase` `PWA` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
+| 📚 | **[Diploma Dost](https://github.com/piush365/Diploma-Dost)** · [live](https://piush365.github.io/Diploma-Dost/) | Open-source PWA for diploma engineering students — 9 contributors, 9 forks | `React` `Vite` `Supabase` `PWA` | ![LIVE](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logoColor=white) |
 | ⚡ | **[Flash Sale System](https://github.com/piush365/flashstrike)** | Load-tested to 2,000 concurrent users (k6) — zero overselling | `Java` `Spring Boot` `Kafka` `Redis` `Docker` | ![SHIPPED](https://img.shields.io/badge/SHIPPED-0088FF?style=flat-square&logoColor=white) |
-| 🧠 | **[Marathi Sentiment](https://github.com/piush365/marathi-political-sentiment)** | LLM labeling pipeline for Marathi political NLP research | `Python` `NLP` `LLM` `Pandas` | ![WIP](https://img.shields.io/badge/arXiv_BOUND-FF6600?style=flat-square&logoColor=white) |
-
----
+| 🧪 | **[PromptOpt](https://github.com/piush365/PromptOpt)** | Rewrites vague prompts into structured, token-efficient ones — and measures if it helps | `Python` `FastAPI` `spaCy` `Sentence-Transformers` `LoRA` | ![WIP](https://img.shields.io/badge/IN_PROGRESS-FF6600?style=flat-square&logoColor=white) |
+| 🧠 | **[BERT-LSTM Sentiment](https://github.com/piush365/marathi-political-sentiment)** | BERT with LSTM units inside the encoder layers — sentiment on IMDB & TweetEval | `Python` `PyTorch` `Transformers` | ![RESEARCH](https://img.shields.io/badge/RESEARCH-8E75B2?style=flat-square&logoColor=white) |
 
 ---
 
@@ -75,6 +77,7 @@ piush@fedora:~$ █
 **[ BACKEND ]**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -86,7 +89,9 @@ piush@fedora:~$ █
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -94,6 +99,8 @@ piush@fedora:~$ █
 **[ FRONTEND ]**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -118,8 +125,9 @@ piush@fedora:~$ █
 
 | | |
 |:---:|:---:|
-| [![Diploma-Dost](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true)](https://github.com/piush365/Diploma-Dost) | [![marathi-political-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true)](https://github.com/piush365/marathi-political-sentiment) |
-| [![flashstrike](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true)](https://github.com/piush365/flashstrike) | [![DevAgent-Flow](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true)](https://github.com/piush365/DevAgent-Flow) |
+| [![gramvarsha](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=gramvarsha&theme=tokyonight&hide_border=true)](https://github.com/piush365/gramvarsha) | [![PromptOpt](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=PromptOpt&theme=tokyonight&hide_border=true)](https://github.com/piush365/PromptOpt) |
+| [![Diploma-Dost](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true)](https://github.com/piush365/Diploma-Dost) | [![flashstrike](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true)](https://github.com/piush365/flashstrike) |
+| [![DevAgent-Flow](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true)](https://github.com/piush365/DevAgent-Flow) | [![marathi-political-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true)](https://github.com/piush365/marathi-political-sentiment) |
 
 
 </div>
