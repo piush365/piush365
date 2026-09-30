@@ -123,11 +123,10 @@ piush@fedora:~$ █
 
 <div align="center">
 
-| | |
+| [![gramvarsha](./profile/pin-gramvarsha.svg)](https://github.com/piush365/gramvarsha) | [![PromptOpt](./profile/pin-PromptOpt.svg)](https://github.com/piush365/PromptOpt) |
 |:---:|:---:|
-| [![gramvarsha](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=gramvarsha&theme=tokyonight&hide_border=true)](https://github.com/piush365/gramvarsha) | [![PromptOpt](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=PromptOpt&theme=tokyonight&hide_border=true)](https://github.com/piush365/PromptOpt) |
-| [![Diploma-Dost](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true)](https://github.com/piush365/Diploma-Dost) | [![flashstrike](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true)](https://github.com/piush365/flashstrike) |
-| [![DevAgent-Flow](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true)](https://github.com/piush365/DevAgent-Flow) | [![marathi-political-sentiment](https://github-readme-stats.vercel.app/api/pin/?username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true)](https://github.com/piush365/marathi-political-sentiment) |
+| [![Diploma-Dost](./profile/pin-Diploma-Dost.svg)](https://github.com/piush365/Diploma-Dost) | [![flashstrike](./profile/pin-flashstrike.svg)](https://github.com/piush365/flashstrike) |
+| [![DevAgent-Flow](./profile/pin-DevAgent-Flow.svg)](https://github.com/piush365/DevAgent-Flow) | [![marathi-political-sentiment](./profile/pin-marathi-political-sentiment.svg)](https://github.com/piush365/marathi-political-sentiment) |
 
 
 </div>
@@ -138,18 +137,10 @@ piush@fedora:~$ █
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piush365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![GitHub Stats](./profile/stats.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piush365&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piush365&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piush365&theme=tokyo-night&hide_border=true&area=true)](https://github.com/piush365)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 

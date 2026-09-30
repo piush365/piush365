@@ -18,14 +18,62 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=piush365&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
+          options: username=piush365&show_icons=true&theme=tokyonight&hide_border=true
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=piush365&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
+          options: username=piush365&layout=compact&theme=tokyonight&hide_border=true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (gramvarsha)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=gramvarsha&theme=tokyonight&hide_border=true
+          path: profile/pin-gramvarsha.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (PromptOpt)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=PromptOpt&theme=tokyonight&hide_border=true
+          path: profile/pin-PromptOpt.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (Diploma-Dost)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=Diploma-Dost&theme=tokyonight&hide_border=true
+          path: profile/pin-Diploma-Dost.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (flashstrike)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=flashstrike&theme=tokyonight&hide_border=true
+          path: profile/pin-flashstrike.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (DevAgent-Flow)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=DevAgent-Flow&theme=tokyonight&hide_border=true
+          path: profile/pin-DevAgent-Flow.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (marathi-political-sentiment)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=piush365&repo=marathi-political-sentiment&theme=tokyonight&hide_border=true
+          path: profile/pin-marathi-political-sentiment.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
