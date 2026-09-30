@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *" # Runs automatically every day at midnight
   workflow_dispatch: # Allows you to trigger the script manually
 
+# Both profile workflows commit to main; queue them so their pushes don't race
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest

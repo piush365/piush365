@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+# Both profile workflows commit to main; queue them so their pushes don't race
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
